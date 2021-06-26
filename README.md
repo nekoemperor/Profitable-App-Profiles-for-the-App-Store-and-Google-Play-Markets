@@ -1,25 +1,20 @@
-# Exploring Hacker News Posts
-
-Hacker News posts from the past 12 months (including # of votes and comments)
+# Profitable App Profiles for the App Store and Google Play Markets
 
 ## Table of contents
 * [About](#about)
-* [Introduction](#introduction)
 * [Goals](#goals)
 * [Technologies](#technologies)
 
 
 ## About:
-Hacker News is a site started by the startup incubator Y Combinator, where user-submitted stories (known as "posts") are voted and commented upon, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of Hacker News' listings can get hundreds of thousands of visitors as a result.
-
-## Introduction:
-Dataset has been reduced from almost 300,000 rows to approximately 20,000 rows by removing all submissions that did not receive any comments, and then randomly sampling from the remaining submissions.
+At our company, we only build apps that are free to download and install, and our main source of revenue consists of in-app ads. This means that our revenue for any given app is mostly influenced by the number of users that use our app.
 
 ## Goals:
-We're specifically interested in posts whose titles begin with either: 
-* "Ask HN" or 
-* "Show HN" 
-Users submit "Ask HN" posts to ask the Hacker News community a specific question.
+The aim of the project are: 
+* find mobile app profiles that are profitable for the App Store and Google Play markets. 
+* analyze data to help our developers understand what kinds of apps are likely to attract more users. 
+
+As data analysts for a company that builds Android and iOS mobile apps, our job is to enable our team of developers to make data-driven decisions with respect to the kind of apps they build.
 
 ## Technologies:
 Project is created with:
